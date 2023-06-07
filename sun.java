@@ -1,8 +1,8 @@
 import java.util.*;
 public class gfg
 {
-	public Static void main(String[]args)
+	public static void main(String[]args)
 	{
-		System.out.println("hello world from spt");
+		System.out.println("hello world from spt to Tumkuru");
 	}
 }
